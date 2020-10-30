@@ -1,6 +1,9 @@
 package com.example.android.justjava;
 
-import android.support.v7.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity; 
+/**
+ * This package does not exist if you want your app to run then you will have to change it
+ */
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
